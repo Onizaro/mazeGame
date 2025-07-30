@@ -12,7 +12,7 @@ This is a classical python maze game with multiple level and fully playable on a
 - keyboard
 
 To install a dependencie, run on the terminal:
-´´´
+```
 pip install dependencie_name
-´´´
+```
 It can be a different command depending on your OS.
